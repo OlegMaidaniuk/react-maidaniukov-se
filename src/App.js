@@ -12,6 +12,9 @@ image={'https://i.discogs.com/WI38UGun7TKKNg04MTHK0yV-I1Yb75sdJ_t0GEermmo/rs:fit
             <App name={'Homer'} surname={'Simpson'} size={'47'}
                  image={'https://images.prom.ua/2472016152_w640_h640_kruzhka-s-printom.jpg'}
                  age={'48'}/>
+            <App name={'Homer'} surname={'Simpson'} size={'47'}
+                 image={'https://images.prom.ua/2472016152_w640_h640_kruzhka-s-printom.jpg'}
+                 age={'48'}/>
         </div>
     );
 };
